@@ -1,6 +1,6 @@
 # Relational database for railway company
 
-The goal of the project was to design and implement a relational database for a railway company. <br>
-In the database folder you can find several query files featuring CREATE AND INSERT commands required for database construction. <br><br>
+This project provides the design, implementation, and analytical SQL queries for a railway company’s relational database. <br>
+It features documentation and ERD diagram as well. <br><br>
 
-Additionally the project includes files with potential queries that could be used for business analysis and decision making in the exemplary company.
+All analytical SQL queries can be found in database folder under the name "queries_for_analysis.sql".
